@@ -1,4 +1,4 @@
-# loging-form
+# login-form
 Create a simple login form using basic HTML and then style it using the ready classes of the free and open-source frontend   
 HTML, CSS and JS framework (Twitter) Bootstrap3 for doing our development experience easier, faster, responsive, mobile on the web.       
 
